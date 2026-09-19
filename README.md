@@ -21,8 +21,8 @@ A circular, closed-loop hydroponics platform designed with natural bamboo growth
 
 ## 3D Model & Renders
 
-- **Interactive 3D Model:** [`assets/bamboo_rig_model.glb`](assets/bamboo_rig_model.glb)
-- **Side Elevation Render:** [`assets/side_profile_render.png`](assets/side_profile_render.png)
+- **Interactive 3D Model:** [`assets/bamboo_rig_model.glb`](bamboo_rig_model.glb)
+- **Side Elevation Render:** [`assets/side_profile_render.png`](side_profile_render.png)
 
 ---
 
